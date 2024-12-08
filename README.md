@@ -80,6 +80,7 @@ assign f7=~(a^b);
 endmodule
 
  ```
+
 **Logic symbol & Truthtable**
 ![image](https://github.com/user-attachments/assets/fa764199-adb6-4969-b9de-e870039dd5d5)
 
